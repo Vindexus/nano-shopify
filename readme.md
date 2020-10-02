@@ -1,7 +1,7 @@
 # BrainBlocks Shopify
 A NodeJS project for accepting [Nano](https://nano.org) cryptocurrency on Shopify.
 
-Powered by [BrainBlocks](https://brainblocks.io). Developed by Vindexus.
+Powered by [BrainBlocks](https://brainblocks.io). Developed by [Colin "Vindexus" Kierans](https://colinkierans.com).
 
 ## Requirements
  - NodeJS
